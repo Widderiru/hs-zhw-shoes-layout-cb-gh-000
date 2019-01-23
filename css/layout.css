@@ -41,6 +41,6 @@
 .col-2 {
   width: 65%;
   float: left;
-  display: inline;
+  display: inline-block;
   margin-left: 10px;
 }
