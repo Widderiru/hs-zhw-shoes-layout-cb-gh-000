@@ -32,7 +32,8 @@
 }
 
 .col-2 {
-  width: 66%;
+  width: 64%;
   float: left;
   display: inline;
+  margin: 1em;
 }
