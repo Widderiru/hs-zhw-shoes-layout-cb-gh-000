@@ -26,9 +26,12 @@
 
 .col-1{
   width: 33.33%;
-
+  float: left;
+  display: inline;
 }
 
 .col-2 {
   width: 66%;
+  float: left;
+  display: inline;
 }
