@@ -25,10 +25,10 @@
 /* Positioning Classes */
 
 .col-1{
-  width: 31.5%;
+  width: 31%;
   float: left;
   display: inline;
-  margin-left: 1em;
+  margin-left: 1%;
 }
 
 .col-3{
