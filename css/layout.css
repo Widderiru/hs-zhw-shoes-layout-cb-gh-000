@@ -39,8 +39,8 @@
 }
 
 .col-2 {
-  width: 66%;
+  width: 65%;
   float: left;
   display: inline;
-  margin-left: 10px
+  margin-left: 10px;
 }
