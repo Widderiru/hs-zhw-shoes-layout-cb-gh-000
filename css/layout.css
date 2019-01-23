@@ -25,7 +25,8 @@
 /* Positioning Classes */
 
 .shadow{
-  width: 30%;
+  width: 32%;
+  display: inline;
 }
 
 .col-2 {
