@@ -34,7 +34,7 @@
 .col-3{
   width: 32%;
   float: left;
-  display: inline;
+  display: inline-block;
   margin-left: 10px;
 }
 
